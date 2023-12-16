@@ -1,6 +1,6 @@
 html,
 body {
-    background: radial-gradient(circle, rgb(29, 8, 88), rgb(13, 1, 44), rgb(5, 0, 24));
+    background-color: bisque;
 }
 
 :root {
@@ -18,12 +18,12 @@ body {
   height: 72vh;
 }
 h1{
-    color:#f5ecf0;
+    color:#970355;
     text-align: center;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 h2{
-    color: white;
+    color: #e7073f;
     text-align: center;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
